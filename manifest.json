@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "latest": "2026-w05-20261008-evening",
+  "reports": [
+    {
+      "id": "2026-w05-20261008-evening",
+      "season": 2026,
+      "week": 5,
+      "as_of": "2026-10-08",
+      "as_of_label": "October 8, 2026, evening ET; exact retrieval time not recorded",
+      "status": "historical snapshot",
+      "path": "reports/2026/week-05/2026-10-08-evening.html",
+      "notes": "Original report preserved unchanged. Includes Week 2–4 results; Week 1 actuals are unavailable. Odds and availability have not been refreshed during repository setup."
+    }
+  ]
+}
